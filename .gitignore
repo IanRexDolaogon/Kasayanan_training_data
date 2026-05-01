@@ -1,0 +1,11 @@
+# Environments
+venv/
+env/
+__pycache__/
+
+# Data files (Optional, but recommended if your CSVs get very large)
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db

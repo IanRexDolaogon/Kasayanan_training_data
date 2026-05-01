@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+experta
+fastapi
+uvicorn
+streamlit
+requests
+beautifulsoup4
+feedparser
